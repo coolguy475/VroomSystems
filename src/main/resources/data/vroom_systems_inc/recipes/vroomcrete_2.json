@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "vroom_systems_inc:vroom_juice_bucket"
+    },
+    {
+      "item": "minecraft:smooth_stone"
+    },
+    {
+      "item": "vroom_systems_inc:vroom_juice_bucket"
+    },
+    {
+      "item": "minecraft:smooth_stone"
+    },
+    {
+      "item": "minecraft:smooth_stone"
+    },
+    {
+      "item": "minecraft:smooth_stone"
+    },
+    {
+      "item": "vroom_systems_inc:vroom_juice_bucket"
+    },
+    {
+      "item": "minecraft:smooth_stone"
+    },
+    {
+      "item": "vroom_systems_inc:vroom_juice_bucket"
+    }
+  ],
+  "result": {
+    "item": "vroom_systems_inc:vroomjuice_2",
+    "count": 5
+  }
+}

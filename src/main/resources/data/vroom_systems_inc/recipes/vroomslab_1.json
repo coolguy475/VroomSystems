@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "vroom_systems_inc:vroomcreteb"
+    },
+    "1": {
+      "item": "vroom_systems_inc:vroomcreteb"
+    },
+    "2": {
+      "item": "vroom_systems_inc:vroomcreteb"
+    }
+  },
+  "result": {
+    "item": "vroom_systems_inc:vroomcreteslabv_1",
+    "count": 6
+  }
+}

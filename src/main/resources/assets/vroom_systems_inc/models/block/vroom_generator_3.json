@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "vroom_systems_inc:blocks/vroomenergygenerator",
+    "up": "vroom_systems_inc:blocks/vroomenergygenerator",
+    "north": "vroom_systems_inc:blocks/vroomenergygenerator",
+    "east": "vroom_systems_inc:blocks/vroomenergygenerator",
+    "south": "vroom_systems_inc:blocks/vroomenergygenerator",
+    "west": "vroom_systems_inc:blocks/vroomenergygenerator",
+    "particle": "vroom_systems_inc:blocks/vroomenergygenerator"
+  }
+}

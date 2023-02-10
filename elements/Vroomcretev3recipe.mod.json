@@ -1,0 +1,46 @@
+{
+  "_fv": 34,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 2,
+    "group": "",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:VroomJuice.bucket"
+      },
+      {
+        "value": "CUSTOM:VroomJuice.bucket"
+      },
+      {
+        "value": "CUSTOM:VroomJuice.bucket"
+      },
+      {
+        "value": "CUSTOM:VroomJuice.bucket"
+      },
+      {
+        "value": "Blocks.STONE#6"
+      },
+      {
+        "value": "CUSTOM:VroomJuice.bucket"
+      },
+      {
+        "value": "CUSTOM:VroomJuice.bucket"
+      },
+      {
+        "value": "CUSTOM:VroomJuice.bucket"
+      },
+      {
+        "value": "CUSTOM:VroomJuice.bucket"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Vroomcretev3"
+    },
+    "name": "vroomcretev_3recipe",
+    "namespace": "mod"
+  }
+}

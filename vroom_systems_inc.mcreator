@@ -1,0 +1,323 @@
+{
+  "mod_elements": [
+    {
+      "name": "VroomJuice",
+      "type": "fluid",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vroom_juice",
+      "metadata": {
+        "gb": true
+      }
+    },
+    {
+      "name": "Vroomcreteb",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vroomcreteb"
+    },
+    {
+      "name": "Vroomcrete",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vroomcrete"
+    },
+    {
+      "name": "Vroomjuice2",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vroomjuice_2"
+    },
+    {
+      "name": "Vroomcrete2",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vroomcrete_2"
+    },
+    {
+      "name": "Vroomcretev3",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vroomcretev_3"
+    },
+    {
+      "name": "Vroomcretev3recipe",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vroomcretev_3recipe"
+    },
+    {
+      "name": "VroomRubber",
+      "type": "item",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vroom_rubber"
+    },
+    {
+      "name": "Vroomcreteslabv1",
+      "type": "block",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vroomcreteslabv_1"
+    },
+    {
+      "name": "Vroomslab1",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vroomslab_1"
+    },
+    {
+      "name": "VroomGenerator3UpdateTick",
+      "type": "procedure",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vroom_generator_3_update_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "VroomGenerator3",
+      "type": "block",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vroom_generator_3"
+    },
+    {
+      "name": "VroomMeterRightclickedOnBlock",
+      "type": "procedure",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vroom_meter_rightclicked_on_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "direction",
+            "type": "direction"
+          },
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "VroomMeter",
+      "type": "item",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vroom_meter"
+    },
+    {
+      "name": "Liquifier",
+      "type": "procedure",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "liquifier",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Liquifiergui",
+      "type": "gui",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "liquifiergui"
+    },
+    {
+      "name": "Vroomliquifier3UpdateTick",
+      "type": "procedure",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vroomliquifier_3_update_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Vroomliquifier3",
+      "type": "block",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vroomliquifier_3"
+    },
+    {
+      "name": "VroomTank3",
+      "type": "procedure",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vroom_tank_3",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    }
+  ],
+  "variable_elements": [
+    {
+      "name": "Vroomenergybar",
+      "type": "number",
+      "scope": "player_lifetime",
+      "value": "0"
+    },
+    {
+      "name": "Vroomtime",
+      "type": "number",
+      "scope": "player_lifetime",
+      "value": "0"
+    }
+  ],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.vroom_systems_inc.vroomcreteslabv_1": "Vroomcrete Slab",
+      "item.vroom_systems_inc.vroom_meter": "Vroom Energy Tablet",
+      "block.vroom_systems_inc.vroomjuice_2": "Vroomcrete V2",
+      "block.vroom_systems_inc.vroomliquifier_3": "Vroom Solidifier",
+      "block.vroom_systems_inc.vroomcretev_3": "Vroomcrete V3",
+      "block.vroom_systems_inc.vroom_juice": "Vroom Juice",
+      "fluid.vroom_systems_inc.vroom_juice": "Vroom Juice",
+      "block.vroom_systems_inc.vroomcreteb": "Vroomcrete",
+      "item.vroom_systems_inc.vroom_rubber": "Vroom Rubber",
+      "item.vroom_systems_inc.vroom_juice_bucket": "Vroom Juice Bucket",
+      "block.vroom_systems_inc.vroom_generator_3": "Vroom Generator V3"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "vroom_systems_inc",
+    "modName": "Vroom Systems Inc",
+    "version": "1.0.0",
+    "author": "Ethan, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.18.2",
+    "modElementsPackage": "net.mcreator.vroomsystemsinc",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200348217
+}

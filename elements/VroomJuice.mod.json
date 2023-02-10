@@ -1,0 +1,51 @@
+{
+  "_fv": 34,
+  "_type": "fluid",
+  "definition": {
+    "name": "Vroom Juice",
+    "bucketName": "Vroom Juice Bucket",
+    "textureStill": "vroomjuiceat",
+    "textureFlowing": "vroomjuicerf",
+    "tintType": "No tint",
+    "canMultiply": true,
+    "flowRate": 3,
+    "levelDecrease": 1,
+    "slopeFindDistance": 4,
+    "spawnParticles": false,
+    "dripParticle": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "flowStrength": 20.0,
+    "luminosity": 0,
+    "density": 0,
+    "viscosity": 500,
+    "temperature": 300,
+    "type": "WATER",
+    "generateBucket": true,
+    "textureBucket": "vroombucket",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "emptySound": {
+      "value": ""
+    },
+    "rarity": "UNCOMMON",
+    "specialInfo": [
+      "Vroom Systems Inc Presents: Vroom Juice",
+      "Vroom Juice is specially designed to push entities extremely fast!"
+    ],
+    "resistance": 100.0,
+    "luminance": 0,
+    "lightOpacity": 10,
+    "emissiveRendering": false,
+    "tickRate": 10,
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "colorOnMap": "LIME",
+    "frequencyOnChunks": 5,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBiomes": []
+  }
+}

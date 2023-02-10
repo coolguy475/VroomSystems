@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "vroom_systems_inc:block/vroomliquifier_3"
+    },
+    "facing=east": {
+      "model": "vroom_systems_inc:block/vroomliquifier_3",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "vroom_systems_inc:block/vroomliquifier_3",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "vroom_systems_inc:block/vroomliquifier_3",
+      "y": 270
+    }
+  }
+}

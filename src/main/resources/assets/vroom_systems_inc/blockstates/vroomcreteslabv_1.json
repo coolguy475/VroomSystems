@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "vroom_systems_inc:block/vroomcreteslabv_1"
+    },
+    "type=top": {
+      "model": "vroom_systems_inc:block/vroomcreteslabv_1_top"
+    },
+    "type=double": {
+      "model": "vroom_systems_inc:block/vroomcreteslabv_1_full"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "vroom_systems_inc:blocks/vroomcrete1",
+    "top": "vroom_systems_inc:blocks/vroomcrete1",
+    "side": "vroom_systems_inc:blocks/vroomcrete1"
+  }
+}

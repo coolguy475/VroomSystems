@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "vroom_systems_inc:blocks/vroomcrete3",
+    "up": "vroom_systems_inc:blocks/vroomcrete3",
+    "north": "vroom_systems_inc:blocks/liquifier",
+    "east": "vroom_systems_inc:blocks/vroomcrete3",
+    "south": "vroom_systems_inc:blocks/vroomenergygenerator",
+    "west": "vroom_systems_inc:blocks/vroomcrete3",
+    "particle": "vroom_systems_inc:blocks/vroomcrete3"
+  }
+}
